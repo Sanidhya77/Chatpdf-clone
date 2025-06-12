@@ -2,9 +2,9 @@ mdurl==0.1.2
 markdown-it-py==3.0.0
 python-dotenv>=1.0.0,<2.0.0
 qdrant-client>=1.14.2,<2.0.0
-langchain-text-splitters==0.0.300
-langchain-qdrant==0.0.300
-langchain-embeddings==0.0.300
+langchain-text-splitters==0.3.8
+langchain-qdrant==0.3.8
+langchain-embeddings==0.3.8
 streamlit>=1.20.0
 langchain==0.0.308
 langchain-community==0.0.308
