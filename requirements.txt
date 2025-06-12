@@ -1,7 +1,7 @@
 mdurl==0.1.2
 markdown-it-py==3.0.0
-python-dotenv==1.0.0
-qdrant-client==1.0.0
+python-dotenv>=1.0.0,<2.0.0
+qdrant-client>=1.14.2,<2.0.0
 langchain-text-splitters==0.0.300
 langchain-qdrant==0.0.300
 langchain-embeddings==0.0.300
@@ -13,8 +13,3 @@ openai>=0.27.8,<1.0.0
 pypdf>=3.13.0
 rich>=14.0.0
 pygments>=2.19.1
-
-
-
-
-
